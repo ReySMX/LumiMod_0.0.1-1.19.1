@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "lumimod:ajolotito"
+    }
+  },
+  "result": {
+    "item": "lumimod:ajolotito_block"
+  }
+}

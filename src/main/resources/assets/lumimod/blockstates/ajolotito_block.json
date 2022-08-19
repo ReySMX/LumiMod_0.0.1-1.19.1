@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "lumimod:block/ajolotito_block"
+    },
+    "facing=south": {
+      "model": "lumimod:block/ajolotito_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "lumimod:block/ajolotito_block",
+      "y": 270
+    },
+  "facing=east": {
+    "modem": "lumimod:block/ajolotito_block",
+    "y": 90
+   }
+  }
+}
