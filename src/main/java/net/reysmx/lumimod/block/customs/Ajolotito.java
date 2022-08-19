@@ -13,7 +13,7 @@ import net.minecraft.world.level.block.state.properties.DirectionProperty;
 public class Ajolotito extends HorizontalDirectionalBlock {
     public static final DirectionProperty FACING = BlockStateProperties.HORIZONTAL_FACING;
 
-    protected Ajolotito(Properties properties) {
+    public Ajolotito(Properties properties) {
         super(properties);
     }
 

@@ -8,7 +8,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
-import net.reysmx.lumimod.block.ModBlocks;
+import net.reysmx.lumimod.block.customs.ModBlocks;
 import net.reysmx.lumimod.item.ModItems;
 import org.slf4j.Logger;
 
